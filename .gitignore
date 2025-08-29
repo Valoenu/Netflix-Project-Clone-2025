@@ -22,3 +22,20 @@ __pycache__/
 *.pyd
 env/
 venv/
+
+# Node modules
+node_modules/
+
+# Build outputs
+build/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
